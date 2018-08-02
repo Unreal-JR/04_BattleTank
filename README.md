@@ -8,5 +8,6 @@ Here I make a repo myself to do version control, and you are welcome to download
 
 ## Lecture List
 
-### BT001 Intro, Notes & Assets ###
+### *BT001 Intro, Notes & Assets ###
 
+### *BT002 Game Design Document (GDD) ###
