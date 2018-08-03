@@ -11,3 +11,5 @@ Here I make a repo myself to do version control, and you are welcome to download
 ### *BT001 Intro, Notes & Assets ###
 
 ### *BT002 Game Design Document (GDD) ###
+
+### *BT003 Setup Landscape ###
