@@ -6,7 +6,7 @@ This project is from the [Unreal Engine Developer]( http://gdev.tv/urcgithub) co
 
 Here I make a repo myself to do version control, and you are welcome to download those files or share your experience with me. You can check out the course here: [Unreal Engine Developer]( http://gdev.tv/urcgithub)
 
-## Lecture List
+## Improvement List
 
 ### *BT001 Intro, Notes & Assets ###
 
