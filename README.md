@@ -23,3 +23,5 @@ Here I make a repo myself to do version control, and you are welcome to download
 ### *BT007 Start & Quit Game ###
 
 ### *BT008 Controller and Tank C++ Class ###
+
+### *BT009 Setup AI Controller ###
