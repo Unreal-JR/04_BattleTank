@@ -27,3 +27,5 @@ Here I make a repo myself to do version control, and you are welcome to download
 ### *BT009 Setup AI Controller ###
 
 ### *BT010 Aiming & Line Trace ###
+
+### *BT011 Firing & Projectile Velocity ###
