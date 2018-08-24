@@ -29,3 +29,5 @@ Here I make a repo myself to do version control, and you are welcome to download
 ### *BT010 Aiming & Line Trace ###
 
 ### *BT011 Firing & Projectile Velocity ###
+
+### *BT012 Movement Binding & Speed ###
