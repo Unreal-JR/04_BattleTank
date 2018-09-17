@@ -40,6 +40,6 @@ Here I make a repo myself to do version control, and you are welcome to download
 
 ### *BT016 Polished Aiming and AI ###
 
-### *BT107 Improved Projectile ###
+### *BT017 Improved Projectile ###
 
-### *BT108 Damage & Health Bar ###
+### *BT018 Damage & Health Bar ###
